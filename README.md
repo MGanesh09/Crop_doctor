@@ -6,6 +6,10 @@
 [![Keras](https://img.shields.io/badge/Keras-3.0+-red.svg)](https://keras.io/)
 [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
+> 🌐 **Live Working Project**: [https://mganesh09.github.io/Crop_doctor/](https://mganesh09.github.io/Crop_doctor/)  
+> 📂 **GitHub Repository**: [https://github.com/MGanesh09/Crop_doctor](https://github.com/MGanesh09/Crop_doctor)
+
+
 ## 📌 Project Overview
 
 **Crop Doctor** is an Artificial Intelligence powered application that detects plant and crop diseases from leaf images and delivers actionable treatment recommendations. The system integrates a Convolutional Neural Network (CNN) trained on over 15,000 leaf images across 41 crop conditions with a chatbot knowledge retrieval system (RAG) to provide farmers, gardeners, and agriculture students with instant diagnosis, causes, prevention methods, and remedies.
