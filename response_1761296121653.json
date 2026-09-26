@@ -1,0 +1,35 @@
+{
+  "predicted_class": "Common_Rust",
+  "confidence": 0.9084866046905518,
+  "chatbot_answer": {
+    "content": "Common Rust is a disease caused by a fungus (a type of tiny germ) that mainly affects corn, but can also be found on sorghum and some grasses.\n\n### What to Look For\n*   Small, oval, or cinnamon-brown powdery spots on both the upper and lower surfaces of the leaves.\n*   These spots, called pustules, will release a rusty-colored powder if you rub them. This powder contains spores (like tiny seeds) that spread the disease.\n*   Later in the season, the spots may turn dark brown or black.\n\n### Conditions That Favor the Disease\n*   Cool temperatures (60-80°F / 16-27°C).\n*   High humidity and moisture on the leaves from dew, fog, or light rain for several hours.\n\n### How to Manage Common Rust\n*   **Plant Resistant Hybrids:** This is the most effective and cheapest way to control it. Ask your seed dealer for corn varieties that have good resistance to Common Rust.\n*   **Apply Fungicides:** If the disease appears early on a susceptible hybrid and the weather is cool and wet, a fungicide (a spray that kills fungus) may be needed to protect your yield. Scout your fields regularly to catch it early.\n*   **Crop Rotation:** Planting a different crop, like soybeans, in the field next year can help reduce the amount of fungus that survives over winter.",
+    "additional_kwargs": {},
+    "response_metadata": {
+      "prompt_feedback": {
+        "block_reason": 0,
+        "safety_ratings": []
+      },
+      "finish_reason": "STOP",
+      "model_name": "gemini-2.5-pro",
+      "safety_ratings": [],
+      "grounding_metadata": {},
+      "model_provider": "google_genai"
+    },
+    "type": "ai",
+    "name": null,
+    "id": "lc_run--b69b4ad0-a50d-4ae8-bebd-c157a434a5ac-0",
+    "tool_calls": [],
+    "invalid_tool_calls": [],
+    "usage_metadata": {
+      "input_tokens": 296,
+      "output_tokens": 1059,
+      "total_tokens": 1355,
+      "input_token_details": {
+        "cache_read": 0
+      },
+      "output_token_details": {
+        "reasoning": 765
+      }
+    }
+  }
+}
